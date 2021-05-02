@@ -1,5 +1,5 @@
 part of thenounproject;
 
-class TheNounProject{
-  
+class _TNPIcon{
+
 }

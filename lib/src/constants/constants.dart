@@ -1,3 +1,3 @@
 part of thenounproject;
 
-const _mainSite = '';
+final _mainSite = Uri.parse('http://api.thenounproject.com');
